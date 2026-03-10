@@ -1,3 +1,4 @@
-upload/.
+upload/
+output/
 node_modules/
 .env
